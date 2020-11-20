@@ -1,7 +1,15 @@
 /*
-Simple program using a button to change the state of the built in LED.
+Simple program using a button to change the state of 
+ an RGB LED. 
+ ON startup light is OFF.
+ Press the button:
+ 1. Red Light
+ 2. Green Light
+ 3. Blue Light
+ 4. Cycle
+ 5. *Hold until OFF*
 
-Authors: Billy & Carolina (Poopy Butt)
+Authors: Billy & Carolina
 Date: November 14, 2020
 
 */
